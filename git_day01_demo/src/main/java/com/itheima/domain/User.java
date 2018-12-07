@@ -5,5 +5,6 @@ public class User {
     private String name;
     //修改了内容
     private String address;
+    private String education;
 }
  
